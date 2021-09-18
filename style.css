@@ -1,0 +1,91 @@
+.nav-style {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.masthead {
+	background-image: url(https://www.open.edu/openlearn/ocw/pluginfile.php/1317197/mod_resource/content/0/sc_1_olhp_786px.jpg);
+	background-position: center center;
+	background-size: cover;
+	padding-top: 300px;
+	color: white;
+	padding-bottom: 300px;
+}
+
+.mast-title {
+	font-size: 52px;
+	font-weight: 700;
+	font-family: "Montserrat";
+}
+
+.mast-subtitle {
+	font-size: 24px;
+	font-family: "Montserrat";
+	font-style: italic;
+}
+
+.mast-button {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+
+.about-img {
+	width: 100%;
+	height: auto;
+	border-radius: 50%;
+}
+
+.about-section {
+	padding-top: 200px;
+}
+
+.section-padding {
+  padding-top: 96px;
+  padding-bottom: 96px;
+}
+
+.section-heading {
+  font-size: 40px;
+  font-family: "Montserrat";
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.card {
+  margin-bottom: 32px;
+}
+
+.card:hover {
+  background-color: rgba(255, 238, 0, 0.5);
+  transform: scale(1.05);
+  transition: 0.25s;
+}
+
+.icon-style {
+  font-weight: 800;
+  font-size: 128px;
+  color: rgb(255, 187, 0);
+}
+
+.contact-text {
+	text-align: center;
+}
+
+.contact-form {
+	padding: 20px;
+	margin: 20px;
+	border-radius: 10px;
+	border: 1px solid gray;
+	display: flex;
+	flex-direction: column;
+}
+
+html {
+	scroll-behavior: smooth;
+}
